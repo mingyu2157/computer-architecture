@@ -1,1 +1,2 @@
-# computer-architecture
+# 컴퓨터 구조 및 운영체제
+## Chaper01 컴퓨터 구조 시작하기
