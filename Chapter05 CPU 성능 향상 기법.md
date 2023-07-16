@@ -23,7 +23,7 @@
 
 - 스레드의 하드웨어적 정의 : '하나의 코어가 동시에 처리하는 명령어 단위'
 
-  ![코어 스레드](C:\Users\User\Documents\카카오톡 받은 파일\코어 스레드.jpg)
+  <img src = "https://github.com/mingyu2157/computer-architecture/blob/main/%EC%BD%94%EC%96%B4%20%EC%8A%A4%EB%A0%88%EB%93%9C.jpg?raw=true">
 
 ​				8코어 16스레드 그림처럼 하나의 코어로 여러 명령어를 동시에 처리하는 CPU : 멀티스레드 프로세서(또는 CPU)
 
